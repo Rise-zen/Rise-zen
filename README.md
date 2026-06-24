@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://ghstats.dev/api/card?username=Rise-zen&theme=gruvbox&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers&custom_title=Stats&border_radius=10
+![Stats](https://ghstats.dev/api/card?username=Rise-zen&theme=gruvbox&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers&custom_title=Stats&border_radius=10)
 
 <!--
 **Rise-zen/Rise-zen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
